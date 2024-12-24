@@ -1,6 +1,5 @@
-This is the Official PyTorch implementation of our ICASSP2025 paper "Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model".
-
-# Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model
+# Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model (ICASSP2025)
+### This is the Official PyTorch implementation of our ICASSP2025 paper "Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model".
 
 ![Alt text](Fig/Essentia.jpg)
 
@@ -19,4 +18,4 @@ pip install -r requirments.txt
 2. The detailed loading functions are available in `Code/func.py` and `Code/TrainContrastive.py`.
 
 #### Run Model
-1. For running the Essentia, you should use command `python Code/TrainContrastive.py`
+1. For running the Essentia, you should use the command `python Code/TrainContrastive.py`
