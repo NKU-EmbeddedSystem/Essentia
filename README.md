@@ -1,3 +1,5 @@
+This is the Official PyTorch implementation of our ICASSP2025 paper "Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model".
+
 # Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model
 
 ![Alt text](Fig/Essentia.jpg)
